@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    GameObject GroundNew;
+    GameObject GroundNew; 
 
     private void Start()
     {

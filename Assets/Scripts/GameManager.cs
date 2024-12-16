@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    GameObject GroundNew;
+    GameObject GroundBranchToMergeIn;
 
     private void Start()
     {
-        GroundNew = GetComponent<GameObject>();
+        GroundBranchToMergeIn = GetComponent<GameObject>();
     }
 }

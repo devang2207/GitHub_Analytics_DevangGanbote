@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    GameObject Ground;
+    GameObject GroundNew;
 
     private void Start()
     {
-        Ground = GetComponent<GameObject>();
+        GroundNew = GetComponent<GameObject>();
     }
 }
